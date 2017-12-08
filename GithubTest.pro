@@ -5,8 +5,6 @@
 #-------------------------------------------------
 
 QT       += core gui
-//asjdnfkajdn
-//1234
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = GithubTest
